@@ -20,7 +20,7 @@ Upon reviewing the line graph visual of theater outcomes based on launch date, w
 
 ![](Resources/Outcomes_vs_Goals.png)
 
-Upon reviewing the line chart visual for outcomes based on goal, we can see that Kickstarter campaigns that had a goal of either "Less than $1000" or "$1000 to $4999" had the highest successful percentage performance, coming in at 76% and 73% success rate respectively.  On the flip side, campaigns with a goal of either "$45000 to $49999" or "Greater than $50000" were the least successful, however the sample size is quite lower compared to plays in other goal tiers, with only 13 total projects that had goals set at or to exceed $45000, with only 2 of those successfully meeting their funding goal.  
+Upon reviewing the line chart visual for outcomes based on goal, we can see that Kickstarter campaigns that had a goal of either "Less than $1000" or "$1000 to $4999" had the highest successful percentage performance, coming in at 76% and 73% success rate respectively.  On the flip side, campaigns with a goal of either "$45000 to $49999" or "Greater than $50000" were the least successful, however the sample size is quite lower compared to plays in other goal tiers, with only 13 total projects that had goals set at or to exceed $45000, and only 2 of those successfully meeting their funding goal.  
 
 
 ### Challenges and Difficulties Encountered
