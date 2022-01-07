@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Louise is an aspiring playwright, who's play Fever came close to its fundraising goal. Now, she wants to know how different campaigns performed in the category of theater, specifically their results based on their launch dates and their funding goal.  We have an Excel file that encompasses multiple fields of data from past Kickstarter campaigns, and specifically for this project was utilized to analyze how Kickstarter campaigns performed in comparison to when they were launched and what their target goal was set to.  Included in this project is both a visualization and an analysis of outcomes based on launch date for theater category plays and outcomes based on goal. 
+Louise is an aspiring playwright, who's play Fever came close to its fundraising goal. Now, she wants to know how different campaigns performed in the category of theater, specifically their results based on their launch dates and their funding goal.  We have an Excel file that encompasses multiple fields of data from past Kickstarter campaigns, and specifically for this project we utilized the data to analyze how Kickstarter campaigns performed in comparison to when they were launched and their fundraising performance dependant on what their target goal was set to.  Included in this project is both a visualization and an analysis of outcomes based on launch date for theater category plays and outcomes based on goal. 
 
 ### Purpose
 
